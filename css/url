@@ -137,7 +137,7 @@ body {
   border-bottom: 1px solid #ddd;
 }
 .landing {
-  background-image: url(/images/photo-1584008547195-c4ed4dc3e675.avif);
+  background-image: url(../images/photo-1584008547195-c4ed4dc3e675.avif);
   background-size: cover;
   height: calc(100vh - 64px);
 }
